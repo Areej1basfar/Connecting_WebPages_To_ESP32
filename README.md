@@ -1,2 +1,2 @@
 # Connecting_WebPages_To_ESP32
-connecting web page to the ESP 32
+#### The goal here is to link the web pages that you have previously made, which indicate the robot’s movements, with the hardware, which is ESP 32. Each movement of the robot (right, left, front, back) is linked to a different LED. When we control the robot on the web pages, the last movement is stored in the database linked to the web pages. The LED that is linked to this particular movement will light up
